@@ -1,0 +1,70 @@
+.mcc-bg {
+	background-image: url("../img/svg-pengaduan.svg");
+	background-attachment: fixed;
+	background-position: right;
+	background-repeat: no-repeat;
+}
+
+.mcc-bg-table {
+	/* background-image: url("../img/mural3.png"); */
+	background-color: #001a72;
+	/* background-attachment: fixed; */
+	/* background-position: right; */
+	background-repeat: no-repeat;
+}
+
+.mcc-bg-sidebar {
+	background-color: #001a72;
+	color: #ffffff;
+}
+
+.mcc-nav-img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}
+
+.mcc-card-number {
+	font-size: 65px;
+	/* text-align:center;  */
+	font-weight: bold;
+}
+
+.mcc-btn {
+	background-color: #001a72;
+	color: #ffffff;
+}
+
+.mcc-btn:hover {
+	background-color: #136ef0;
+	color: #ffffff;
+}
+
+.mcc-nav-btn {
+	background: none;
+}
+
+.mcc-nav-btn:hover {
+	background-color: #001a72;
+	color: #ffffff;
+}
+
+.mcc-bg-card {
+	background-image: url("../img/mural1.png");
+	background-position: left;
+	background-color: #001a72;
+	color: #ffffff;
+}
+
+.mcc-bg-card2 {
+	background-image: url("../img/team-it.svg");
+	background-attachment: fixed;
+	background-position: right;
+	background-repeat: no-repeat;
+}
+
+.mcc-footer {
+	background-color: #001a72;
+	color: #ffffff;
+}
